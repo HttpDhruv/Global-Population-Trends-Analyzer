@@ -1,4 +1,6 @@
 Population Trends Visualization for Multiple Countries
+
+
 This project uses Python to load and visualize population trends over time for various countries based on a CSV dataset. The project leverages pandas for data manipulation and matplotlib for plotting population trends.
 
 Features
